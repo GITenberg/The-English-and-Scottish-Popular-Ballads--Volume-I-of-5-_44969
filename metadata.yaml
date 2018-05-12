@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38603
     wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44969#The-English-and-Scottish-Popular-Ballads--Volume-I-of-5-
 gutenberg_issued: '2014-02-20'
 gutenberg_type: Text
 identifiers:
